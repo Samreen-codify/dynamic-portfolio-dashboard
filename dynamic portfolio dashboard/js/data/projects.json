@@ -1,0 +1,102 @@
+[
+    {
+        "id": 1,
+        "title": "E-commerce Platform",
+        "category": "Development",
+        "date": "2024-02-15",
+        "imageUrl": "images/ecommerence.png",
+        "shortDescription": "A fully responsive e-commerce platform with cart functionality.",
+        "longDescription": "This project involved building a complete e-commerce solution from scratch. Features include product listings with filtering, a shopping cart with persistent storage, user authentication, and a checkout process. The frontend was built with pure HTML, CSS, and JavaScript, while connecting to a mock API for product data.",
+        "technologies": ["HTML", "CSS", "JavaScript", "REST API"]
+    },
+    {
+        "id": 2,
+        "title": "Portfolio Website",
+        "category": "Web Design",
+        "date": "2024-01-20",
+        "imageUrl": "images/portfoliowebsite.png",
+        "shortDescription": "Minimalist portfolio website with animated transitions.",
+        "longDescription": "A clean, minimalist portfolio design focusing on typography and subtle animations. The site features smooth scroll behavior, intersection observer animations for content reveal, and a custom light/dark mode toggle. All animations were implemented with CSS keyframes and transitions for optimal performance.",
+        "technologies": ["HTML", "CSS", "JavaScript"]
+    },
+    {
+        "id": 3,
+        "title": "Brand Identity",
+        "category": "Branding",
+        "date": "2023-12-10",
+        "imageUrl": "images/brand.png",
+        "shortDescription": "Complete brand identity for a tech startup.",
+        "longDescription": "Developed a comprehensive brand identity including logo design, color palette, typography system, and brand guidelines. The identity was designed to appeal to a tech-savvy audience while maintaining approachability. The project included business cards, letterhead, and digital assets for social media.",
+        "technologies": ["Logo Design", "Typography", "Color Theory"]
+    },
+    {
+        "id": 4,
+        "title": "Weather Dashboard",
+        "category": "Development",
+        "date": "2023-11-05",
+        "imageUrl": "images/weather.png",
+        "shortDescription": "Real-time weather application with 5-day forecast.",
+        "longDescription": "A weather dashboard that fetches real-time data from a weather API and displays current conditions along with a 5-day forecast. The app includes location search, temperature unit toggle, and dynamic background changes based on current weather conditions. Error handling was implemented for API failures.",
+        "technologies": ["HTML", "CSS", "JavaScript", "API Integration"]
+    },
+    {
+        "id": 5,
+        "title": "UI Component Library",
+        "category": "Web Design",
+        "date": "2023-10-18",
+        "imageUrl": "images/ui component library.png",
+        "shortDescription": "Custom UI component library for consistent design.",
+        "longDescription": "Created a comprehensive UI component library to ensure design consistency across multiple projects. The library includes buttons, form elements, cards, modals, and navigation components, all built with accessibility in mind. Each component was documented with usage guidelines and code examples.",
+        "technologies": ["HTML", "CSS", "Design Systems"]
+    },
+    {
+        "id": 6,
+        "title": "Restaurant Website",
+        "category": "Development",
+        "date": "2023-09-22",
+        "imageUrl": "images/restaurant.png",
+        "shortDescription": "Responsive website for a local restaurant.",
+        "longDescription": "A responsive website featuring an interactive menu with filtering options, reservation system, and gallery. The menu allows filtering by dietary restrictions (vegetarian, gluten-free, etc.). The reservation form includes date/time picker and client-side validation. Performance was optimized with lazy-loaded images.",
+        "technologies": ["HTML", "CSS", "JavaScript", "Responsive Design"]
+    },
+    {
+        "id": 7,
+        "title": "Marketing Campaign",
+        "category": "Branding",
+        "date": "2023-08-15",
+        "imageUrl": "images/marketing.png",
+        "shortDescription": "Digital marketing campaign for product launch.",
+        "longDescription": "Developed and executed a digital marketing campaign including social media assets, email templates, and landing pages. The campaign maintained consistent branding across all touchpoints and included A/B testing for key elements. Analytics were implemented to track engagement and conversion rates.",
+        "technologies": ["Graphic Design", "Copywriting", "Digital Marketing"]
+    },
+    {
+        "id": 8,
+        "title": "Task Management App",
+        "category": "Development",
+        "date": "2023-07-30",
+        "imageUrl": "images/task.png",
+        "shortDescription": "Drag-and-drop task management application.",
+        "longDescription": "A Kanban-style task management application with drag-and-drop functionality. Features include task creation/editing, categorization by project, due date tracking, and local storage persistence. The UI was designed for maximum clarity with color coding for priority levels and status indicators.",
+        "technologies": ["HTML", "CSS", "JavaScript", "Drag and Drop API"]
+    },
+    {
+        "id": 9,
+        "title": "Illustration Series",
+        "category": "Design",
+        "date": "2023-06-12",
+        "imageUrl": "images/illustrations.png",
+        "shortDescription": "Series of digital illustrations for a book cover.",
+        "longDescription": "Created a series of digital illustrations for a book cover and accompanying promotional materials. The style was developed to match the tone of the book while standing out in a crowded market. The project included multiple rounds of revisions and collaboration with the author and publisher.",
+        "technologies": ["Digital Illustration", "Adobe Illustrator", "Color Theory"]
+    },
+    {
+        "id": 10,
+        "title": "Interactive Data Visualization",
+        "category": "Development",
+        "date": "2023-05-08",
+        "imageUrl": "images/data.png",
+        "shortDescription": "Dynamic data visualization with filtering options.",
+        "longDescription": "An interactive data visualization tool that allows users to explore complex datasets through charts and graphs. Features include filtering by multiple dimensions, tooltips with detailed information on hover, and the ability to download visualized data. The visualization updates smoothly as filters are adjusted.",
+        "technologies": ["HTML", "CSS", "JavaScript", "SVG", "Data Visualization"]
+    }
+]
